@@ -1,0 +1,4 @@
+@echo off
+cd /d "C:\Users\dipik\Desktop\mouse pro"
+python virtual_mouse.py
+pause
